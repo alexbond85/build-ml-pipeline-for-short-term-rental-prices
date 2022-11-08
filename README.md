@@ -1,5 +1,6 @@
-# Path to the repository
+# Path to the repository and to W&B
 https://github.com/alexbond85/build-ml-pipeline-for-short-term-rental-prices
+https://wandb.ai/abond/nyc_airbnb?workspace=user-abond
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
 time on various rental platforms. You need to estimate the typical price for a given property based 
